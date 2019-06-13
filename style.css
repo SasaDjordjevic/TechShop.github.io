@@ -1,0 +1,40 @@
+#logo{
+	font-family: 'Orbitron', sans-serif;
+	font-size: 25px;
+}
+.lo{
+	font-family: 'Orbitron', sans-serif;
+	font-size: 20px;
+}
+.lorem{
+	font-family: 'Ubuntu Condensed', sans-serif;
+}
+.naslov{
+	font-family: 'Acme', sans-serif;
+}
+.carousel-item img{
+	max-width: 100%;
+	
+}
+.prijava h4{
+	font-size: 20px;
+}
+.card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.smedia{
+	max-width: 50px;
+	margin: 0 auto;
+}
+	
+ .as{
+ 	display: inline;
+ }
+@media screen and (max-width: 720px){
+#myCarousel{
+	margin-top: 64px;
+}
+.as{
+ 		font-size:80%;
+ 	}
+}

@@ -1,0 +1,24 @@
+#logo{
+	font-family: 'Orbitron', sans-serif;
+	font-size: 25px;
+}
+.lo{
+	font-family: 'Orbitron', sans-serif;
+	font-size: 20px;
+}
+.smedia{
+	max-width: 50px;
+	margin: 0 auto;
+}
+
+.lista{
+	margin-top: 90px;
+}
+ .as{
+ 	display: inline;
+ }
+  @media screen and (max-width: 720px){
+ 	.as{
+ 		font-size:80%;
+ 	}
+ }

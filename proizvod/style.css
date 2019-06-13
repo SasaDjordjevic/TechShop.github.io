@@ -1,0 +1,38 @@
+#logo{
+	font-family: 'Orbitron', sans-serif;
+	font-size: 25px;
+}
+.lo{
+	font-family: 'Orbitron', sans-serif;
+	font-size: 20px;
+}
+.lorem{
+	font-family: 'Ubuntu Condensed', sans-serif;
+}
+.naslov{
+	font-family: 'Acme', sans-serif;
+}
+.smedia{
+	max-width: 50px;
+	margin: 0 auto;
+}
+.kolica{
+	max-width: 10%;
+}
+.card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.img-fluid{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.naslov{
+	margin-top: 100px;
+}
+.as{
+ 	display: inline;
+ }
+ @media screen and (max-width: 720px){
+ 	.as{
+ 		font-size:80%;
+ 	}
+ }
